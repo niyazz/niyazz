@@ -2,7 +2,7 @@
  I’m interested in programming, especially in: <br>
  <ul>
      <li>🔆 algorithms</li>
-     <li>👾 microcontrollerss</li>
+     <li>👾 microcontrollers</li>
      <li>🚀 multithreading and..</li>
      <li>📊 machine learning</li>
  </ul>
