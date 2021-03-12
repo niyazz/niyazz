@@ -1,13 +1,14 @@
-- Hi, my name is Niyaz :hurtrealbad: 
-- I’m interested in programming, especially in <br>
-    🔆 algorithms <br>
-    👾 microcontrollers <br>
-    🚀 multithreading and.. <br>
-    📊 machine learning.
-    
-- My main programming languages are 🐪 C# and 🐍 Python.
+ Hi, my name is Niyaz :hurtrealbad: <br>
+ I’m interested in programming, especially in: <br>
+ <ul>
+     <li>🔆 algorithms</li>
+     <li>👾 microcontrollerss</li>
+     <li>🚀 multithreading and..</li>
+     <li>📊 machine learning</li>
+ </ul>
+ <p>My main programming languages are 🐪 C# and 🐍 Python.</p>
 
-- You can contact me by email: 📫 nizoxo@mail.ru
+ You can contact me by email: 📫 nizoxo@mail.ru
 
 <!---
 niyazz/niyazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
