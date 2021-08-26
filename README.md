@@ -14,8 +14,6 @@
 <img height="40" src="https://user-images.githubusercontent.com/33568437/131035546-132ef7b5-cede-4aff-84a3-67d7a084427f.png">
 </p>
 
-### Interests:
-
 <!---
 niyazz/niyazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
